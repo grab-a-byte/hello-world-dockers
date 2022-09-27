@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OKKM3b4df1jDMkJc5a+/FsnWSpSRXX/v83tIruQqK8MBC1YY6jrXwWx1Rp0WXZFjLnf61+wfrX3TtrFR1E3wug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mrpar\\Downloads\\test-thing\\fsharptest\\fsharptest.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mrpar\\.nuget\\packages\\fsharp.core\\6.0.6\\fsharp.core.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
